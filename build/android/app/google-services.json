@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500126735689",
+    "project_id": "uts-piranti-caf80",
+    "storage_bucket": "uts-piranti-caf80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500126735689:android:28c4afbf1e4f0d5ee3ce98",
+        "android_client_info": {
+          "package_name": "com.example.uts_application_piranti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZMplmS9uMdkGQwaSFcBmM5LvJ7MLMpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
